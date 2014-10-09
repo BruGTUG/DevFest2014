@@ -102,9 +102,13 @@
             });
         {% elsif page.permalink == '/practical/' %}
             var googleMaps = 'logistics',
+                googleMaps2 = 'logistics2',
                 eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates }}),
                 centerMap = new google.maps.LatLng({{ site.logisticsMapCenterCoordinates }}),
                 mobileCenterMap = new google.maps.LatLng({{ site.logisticsMapMobileCenterCoordinates }}),
+                eventPlace2 = new google.maps.LatLng({{ site.eventPlaceCoordinates2 }}),
+                centerMap2 = new google.maps.LatLng({{ site.logisticsMapCenterCoordinates2 }}),
+                mobileCenterMap2 = new google.maps.LatLng({{ site.logisticsMapMobileCenterCoordinates2 }}),
                 icon = '{{ site.baseurl }}/img/other/map-marker.svg';
         {% elsif page.permalink == '/hackathon/' %}
             if ($(window).width() > 767) {
@@ -118,6 +122,10 @@
                 eventPlaceCoordinates = '{{ site.hackathonPlaceCoordinates | replace:' ','' }}',
                 centerMapCoordinates = '{{ site.hackathonMapCenterCoordinates | replace:' ','' }}',
                 mobileCenterMapCoordinates = '{{ site.hackathonMapMobileCenterCoordinates | replace:' ','' }}',
+                eventPlaceCoordinates2 = '{{ site.hackathonPlaceCoordinates2 | replace:' ','' }}',
+                centerMapCoordinates2 = '{{ site.hackathonMapCenterCoordinates2 | replace:' ','' }}',
+                mobileCenterMapCoordinates2 = '{{ site.hackathonMapMobileCenterCoordinates2 | replace:' ','' }}',
+
                 icon = '{{ site.baseurl | prepend: site.url }}/img/other/map-marker.png';
             }
             
