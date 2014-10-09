@@ -3,80 +3,92 @@
   dateReadable: "November 9th"
   tracks: 
     - {title: "Dart", color: "#90be4e"}
+    - {title: "Android Wear", color: "#03a9f4"}
   timeslots:
+    - {
+    	startTime: "09:00",
+    	endTime: "09:45",
+    	sessionIds: [001]
+    }
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [003]
+    	sessionIds: [203, 404]
     }
     - {
-    	startTime: "10:45",
-    	endTime: "11:00",
-    	sessionIds: [901]
+    	startTime: "11:00",
+    	endTime: "12:30",
+    	sessionIds: [404, 101]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003]
-    }
-    - {
-    	startTime: "11:45",
+    	startTime: "12:30",
     	endTime: "13:00",
     	sessionIds: [910]
     }
     - {
     	startTime: "13:00",
-    	endTime: "13:45",
-    	sessionIds: [003]
+    	endTime: "14:45",
+    	sessionIds: [204]
     }
     - {
-    	startTime: "13:45",
-    	endTime: "14:00",
+    	startTime: "14:45",
+    	endTime: "15:00",
     	sessionIds: [901]
     }
     - {
-        startTime: "14:00",
-        endTime: "14:45",
-        sessionIds: [003]
+        startTime: "15:00",
+        endTime: "18:00",
+        sessionIds: [205]
+    }
+    - {
+    	startTime: "18:00",
+    	endTime: "19:00",
+    	sessionIds: [920]
     }
 - 
   date: "2014-11-15"
   dateReadable: "November 15th"
   tracks: 
-    - {title: "Polymer", color: "#03a9f4"}
+    - {title: "Polymer", color: "#90be4e"}
+    - {title: "Material Design", color: "#03a9f4"}
   timeslots: 
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
+    	startTime: "09:00",
+    	endTime: "09:45",
     	sessionIds: [001]
     }
     - {
-    	startTime: "10:45",
-    	endTime: "11:00",
-    	sessionIds: [901]
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [202, 201]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [001]
+    	startTime: "11:00",
+    	endTime: "12:30",
+    	sessionIds: [102, 404]
     }
     - {
-    	startTime: "11:45",
+    	startTime: "12:30",
     	endTime: "13:00",
     	sessionIds: [910]
     }
     - {
     	startTime: "13:00",
-    	endTime: "13:45",
-    	sessionIds: [002]
+    	endTime: "14:45",
+    	sessionIds: [204]
     }
     - {
-    	startTime: "13:45",
-    	endTime: "14:00",
+    	startTime: "14:45",
+    	endTime: "15:00",
     	sessionIds: [901]
     }
     - {
-        startTime: "14:00",
-        endTime: "14:45",
-        sessionIds: [002]
+        startTime: "15:00",
+        endTime: "18:00",
+        sessionIds: [205]
+    }
+    - {
+    	startTime: "18:00",
+    	endTime: "19:00",
+    	sessionIds: [920]
     }

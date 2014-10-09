@@ -7,7 +7,15 @@
   title: "Lunch"
   service: true
 -
+  id: 920
+  title: "Round-up"
+  service: true
+-
   id: 001
+  title: "Welcome"
+  service: true
+-
+  id: 201
   title: "Material design: Visual style and imagery"
   description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
   subtype: workshop
@@ -15,7 +23,7 @@
   language: en
   complexity: "Intermediate"
 -
-  id: 002
+  id: 202
   title: "Polymer: Interacting with Google Services using nothing but HTML"
   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
   subtype: keynote
@@ -23,10 +31,42 @@
   language: en
   complexity: "Beginner"
 -
-  id: 003
+  id: 203
   title: "Dart"
   description: "dart"
   subtype: presentation
   speakers: [0]
+  language: en
+  complexity: "Beginner"
+-
+  id: 204
+  title: "Code Lab"
+  description: ""
+  subtype: workshop
+  speakers: [0]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 205
+  title: "Mini Hackathon"
+  description: ""
+  subtype: hackathon
+  speakers: [0]
+  language: en
+  complexity: "Advanced"
+-
+  id: 101
+  title: "Android Wear design sprint"
+  description: "Workshop material will take you through a similar design sprint process for developing an Android Wear app that Google Ventures uses with startups."
+  subtype: workshop
+  speakers: [1]
+  language: en
+  complexity: "Beginner"
+-
+  id: 102
+  title: "Polymer design sprint"
+  description: "Workshop material will take you through a similar design sprint process for developing a Polymer web app that Google Ventures uses with startups."
+  subtype: workshop
+  speakers: [1]
   language: en
   complexity: "Beginner"
