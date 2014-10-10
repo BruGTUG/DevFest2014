@@ -79,11 +79,11 @@ statisticBlock:
 # Latest News Block
 latestNewsTitle: "Latest news"
 
-# Rockstar Speakers Block
-#rockstarSpeakersImage: "rockstar-speakers.jpg"
-#rockstarSpeakersCount: 4
-#rockstarSpeakersTitle: "Rockstar speakers"
-#rockstarSpeakersButtonText: "See all speakers"
+# Rockstar Speakers Block #TODO
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 0
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location DayOne"
@@ -97,7 +97,7 @@ eventStartTime: "2014-11-09T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-11-09T19:00"
 eventPlaceCoordinates: "50.852676, 4.442194"
-mapCenterCoordinates: "50.7141534, 5.8035117"
+mapCenterCoordinates: "50.852676, 4.442194"
 mapMobileCenterCoordinates: "50.852676, 4.442194"
 
 # Location Block
@@ -111,9 +111,9 @@ eventAddressCountry2: "Belgium"
 eventStartTime2: "2014-11-15T10:00"
 eventDoorTime2: "09:00"
 eventEndTime2: "2014-11-15T19:00"
-eventPlaceCoordinates2: "51.852676, 4.442194"
-mapCenterCoordinates2: "51.7141534, 5.8035117"
-mapMobileCenterCoordinates2: "51.852676, 4.442194"
+eventPlaceCoordinates2: "50.839274, 4.380929"
+mapCenterCoordinates2: "50.839274, 4.380929"
+mapMobileCenterCoordinates2: "50.839274, 4.380929"
 
 # Venue Block #TODO
 #venueBlockTitle: "Venue"
@@ -191,7 +191,7 @@ teamBlockTitle: "About us"
 aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
 
 # Logistics Find Way Block #TODO
-findWayTitle: "Find your way to Eureka Secretariat (DayOne)"
+findWayTitle: "Find your way to <br>Eureka Secretariat <br>(DayOne)"
 findWayDistance: "Distance"
 findWayDriving: "DRIVING"
 findWayWalking: "WALKING"
@@ -202,7 +202,7 @@ logisticsMapCenterCoordinates: "50.7141534, 5.8035117"
 logisticsMapMobileCenterCoordinates: "50.852676, 4.442194"
 
 # Logistics Find Way2 Block #TODO
-findWayTitle2: "Find your way to Google Belgium (DayTwo)"
+findWayTitle2: "Find your way to <br>Google Belgium <br>(DayTwo)"
 findWayDistance2: "Distance"
 findWayDriving2: "DRIVING"
 findWayWalking2: "WALKING"
