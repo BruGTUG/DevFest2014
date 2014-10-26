@@ -2,23 +2,38 @@
   date: "2014-11-09"
   dateReadable: "November 9th"
   tracks: 
-    - {title: "Dart", color: "#90be4e"}
-    - {title: "Android Wear", color: "#03a9f4"}
+    - {title: "Android Wear", color: "#90be4e"}
+    - {title: "Dart", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "09:00",
-    	endTime: "09:45",
+    	endTime: "09:30",
     	sessionIds: [001]
     }
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [203, 404]
+    	startTime: "09:30",
+    	endTime: "10:10",
+    	sessionIds: [101]
     }
     - {
-    	startTime: "11:00",
+    	startTime: "10:10",
+    	endTime: "10:20",
+    	sessionIds: [102]
+    }
+    - {
+    	startTime: "10:20",
+    	endTime: "10:30",
+    	sessionIds: [901]
+    }
+    - {
+    	startTime: "10:30",
+    	endTime: "11:30",
+    	sessionIds: [103, 203]
+    }
+    - {
+    	startTime: "11:30",
     	endTime: "12:30",
-    	sessionIds: [404, 101]
+    	sessionIds: [204, 104]
     }
     - {
     	startTime: "12:30",
@@ -27,18 +42,8 @@
     }
     - {
     	startTime: "13:00",
-    	endTime: "14:45",
-    	sessionIds: [204]
-    }
-    - {
-    	startTime: "14:45",
-    	endTime: "15:00",
-    	sessionIds: [901]
-    }
-    - {
-        startTime: "15:00",
-        endTime: "18:00",
-        sessionIds: [205]
+    	endTime: "18:00",
+    	sessionIds: [110, 111]
     }
     - {
     	startTime: "18:00",
@@ -49,46 +54,61 @@
   date: "2014-11-15"
   dateReadable: "November 15th"
   tracks: 
-    - {title: "Polymer", color: "#90be4e"}
-    - {title: "Material Design", color: "#03a9f4"}
+    - {title: "Polymer", color: "#9e026d"}
+    - {title: "Material Design", color: "#f5b002"}
   timeslots: 
     - {
     	startTime: "09:00",
-    	endTime: "09:45",
-    	sessionIds: [001]
+    	endTime: "09:30",
+    	sessionIds: [002]
     }
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [202, 201]
+    	startTime: "09:30",
+    	endTime: "10:30",
+    	sessionIds: [301]
+    }
+    - {
+    	startTime: "10:30",
+    	endTime: "11:00",
+    	sessionIds: [302, 402]
     }
     - {
     	startTime: "11:00",
     	endTime: "12:30",
-    	sessionIds: [102, 404]
+    	sessionIds: [303]
     }
     - {
     	startTime: "12:30",
     	endTime: "13:00",
-    	sessionIds: [910]
+    	sessionIds: [911]
     }
     - {
     	startTime: "13:00",
-    	endTime: "14:45",
-    	sessionIds: [204]
+    	endTime: "14:00",
+    	sessionIds: [310, 410]
     }
     - {
-    	startTime: "14:45",
+    	startTime: "14:00",
     	endTime: "15:00",
+    	sessionIds: [311, 411]
+    }
+    - {
+    	startTime: "15:00",
+    	endTime: "16:00",
+    	sessionIds: [311, 412]
+    }
+    - {
+    	startTime: "16:00",
+    	endTime: "16:15",
     	sessionIds: [901]
     }
     - {
-        startTime: "15:00",
-        endTime: "18:00",
-        sessionIds: [205]
+    	startTime: "16:15",
+    	endTime: "18:00",
+    	sessionIds: [312]
     }
     - {
     	startTime: "18:00",
     	endTime: "19:00",
-    	sessionIds: [920]
+    	sessionIds: [921]
     }

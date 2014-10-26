@@ -7,7 +7,15 @@
   title: "Lunch"
   service: true
 -
+  id: 911
+  title: "Lunch"
+  service: true
+-
   id: 920
+  title: "Round-up"
+  service: true
+-
+  id: 921
   title: "Round-up"
   service: true
 -
@@ -15,58 +23,153 @@
   title: "Welcome"
   service: true
 -
-  id: 201
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [1]
-  language: en
-  complexity: "Intermediate"
+  id: 002
+  title: "Welcome"
+  service: true
 -
-  id: 202
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [1]
-  language: en
-  complexity: "Beginner"
--
-  id: 203
-  title: "Dart"
-  description: "dart"
+  id: 101
+  title: "An Introduction to Android Wear"
+  description: ""
   subtype: presentation
   speakers: [0]
   language: en
   complexity: "Beginner"
 -
-  id: 204
-  title: "Code Lab"
+  id: 102
+  title: "An Overview of the Current Status of Wearables"
   description: ""
-  subtype: workshop
+  subtype: presentation
   speakers: [0]
+  language: en
+  complexity: "Beginner"
+-
+  id: 103
+  title: "Rich Notifications"
+  description: ""
+  subtype: presentation
+  speakers: [2]
   language: en
   complexity: "Intermediate"
 -
-  id: 205
-  title: "Mini Hackathon"
+  id: 104
+  title: "Isomorphic Dart"
   description: ""
-  subtype: hackathon
-  speakers: [0]
+  subtype: presentation
+  speakers: [3]
   language: en
   complexity: "Advanced"
 -
-  id: 101
-  title: "Android Wear design sprint"
+  id: 203
+  title: "Design Sprint (Android Wear)"
   description: "Workshop material will take you through a similar design sprint process for developing an Android Wear app that Google Ventures uses with startups."
   subtype: workshop
   speakers: [1]
   language: en
   complexity: "Beginner"
 -
-  id: 102
-  title: "Polymer design sprint"
-  description: "Workshop material will take you through a similar design sprint process for developing a Polymer web app that Google Ventures uses with startups."
+  id: 204
+  title: "Design Sprint (Android Wear) (cont'd)"
+  description: "Workshop material will take you through a similar design sprint process for developing an Android Wear app that Google Ventures uses with startups."
   subtype: workshop
   speakers: [1]
+  language: en
+  complexity: "Beginner"
+-
+  id: 110
+  title: "Code Lab (Android Wear)"
+  description: "Code Labs with Android Wear, Google Glass, Vuzix M100, Myo, BLE token, Samsung Galaxy Gear Live, Motorola Moto 360, LG G Watch"
+  subtype: workshop
+  speakers: [0, 1]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 111
+  title: "Android Fundamentals Udacity Course (OTS)"
+  description: "With OpenTechSchool Brussels"
+  subtype: workshop
+  speakers: [0, 1]
+  language: en
+  complexity: "Beginner"
+  
+  
+  
+-
+  id: 301
+  title: "An Introduction to Polymer"
+  description: ""
+  subtype: presentation
+  speakers: [1]
+  language: en
+  complexity: "Beginner"
+-
+  id: 302
+  title: "Recap of Dart"
+  description: ""
+  subtype: presentation
+  speakers: [0]
+  language: en
+  complexity: "Beginner"
+-
+  id: 402
+  title: "Material Design"
+  description: "This session will reveal the invisible structures behind the material design system. Google's design pioneers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  subtype: presentation
+  speakers: [1]
+  language: en
+  complexity: "Beginner"
+-
+  id: 303
+  title: "Code Lab (Polymer)"
+  description: ""
+  subtype: workshop
+  speakers: [0, 1]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 310
+  title: "Mini-Hackathon"
+  description: ""
+  subtype: hackathon
+  speakers: [0, 1]
+  language: en
+  complexity: "Advanced"
+-
+  id: 311
+  title: "Mini-Hackathon (cont'd)"
+  description: ""
+  subtype: hackathon
+  speakers: [0, 1]
+  language: en
+  complexity: "Advanced"
+-
+  id: 312
+  title: "Mini-Hackathon (cont'd) and Prize Ceremony"
+  description: ""
+  subtype: hackathon
+  speakers: [0, 1]
+  language: en
+  complexity: "Advanced"
+-
+  id: 410
+  title: "CREATE Workshop"
+  description: ""
+  subtype: workshop
+  speakers: [4]
+  language: en
+  complexity: "Beginner"
+-
+  id: 411
+  title: "Amber"
+  description: ""
+  subtype: presentation
+  speakers: [5]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 412
+  title: "Clean Modern Web Design"
+  description: ""
+  subtype: presentation
+  speakers: [6]
   language: en
   complexity: "Beginner"
