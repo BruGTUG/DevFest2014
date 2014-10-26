@@ -130,7 +130,7 @@
   title: "Mini-Hackathon"
   description: ""
   subtype: hackathon
-  speakers: [0, 1]
+  speakers: []
   language: en
   complexity: "Advanced"
 -
@@ -138,7 +138,7 @@
   title: "Mini-Hackathon (cont'd)"
   description: ""
   subtype: hackathon
-  speakers: [0, 1]
+  speakers: []
   language: en
   complexity: "Advanced"
 -
