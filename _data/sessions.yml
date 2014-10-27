@@ -52,8 +52,8 @@
   complexity: "Intermediate"
 -
   id: 104
-  title: "Isomorphic Dart"
-  description: ""
+  title: "From Realtime to Isomorphic Dart"
+  description: "Joris will guide us through all his contributions that he did for the Dart community. A real-time dart framework named Force, a search engine named Bounty Hunter, a persistent abstraction layer named Cargo, a dependency injection for Dart called Wired, and so on ... He will also learn us what isomporhic Dart means and how powerful this can be."
   subtype: presentation
   speakers: [3]
   language: en
@@ -152,7 +152,7 @@
 -
   id: 410
   title: "CREATE Workshop"
-  description: ""
+  description: "In this workshop, you'll learn the new mindset that creates a 6x increase in the number of high quality ideas versus classic 'brainstorming'. It features a special focus on how to maximize learning from customer insights, marketplace benchmarking, technology and future mining and how to leverage a collaboration mindset to create an exponential increase in effectiveness when accelerating Meaningfully Unique ideas."
   subtype: workshop
   speakers: [4]
   language: en
@@ -160,7 +160,7 @@
 -
   id: 411
   title: "Amber"
-  description: ""
+  description: "Live-coding style, showing Amber and how it works, and what you can do with it."
   subtype: presentation
   speakers: [5]
   language: en

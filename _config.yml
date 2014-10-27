@@ -44,8 +44,10 @@ navigationLinks:
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "http://bit.ly/devfestBE2014c4p", text: "Become a speaker"}
+ - {permalink: "/#tickets", text: "Register - It's Free"}
 rightNavigationButtons:
  - {link: "http://bit.ly/devfestBE2014c4p", text: "Become a speaker"}
+ - {permalink: "/#tickets", text: "Register - It's Free"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -80,9 +82,9 @@ statisticBlock:
 # Latest News Block
 latestNewsTitle: "Latest news"
 
-# Rockstar Speakers Block #TODO
+# Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 0
+rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 

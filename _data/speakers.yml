@@ -19,7 +19,7 @@
   title: "GDG Brussels Organizer"
   bio: 'Pieter-Jan co-organizes GDG Brussels. He has been on the Android track from the beginning, developing apps in his spare time. And having a keen interest in extending the open source platform at its base, through patching, sharing common tools and building blocks, building communities and making contributions to OpenIntents, he tries to steer where this train is going as well.'
   thumbnailUrl: Pieter.jpg
-  rockstar: true
+  rockstar: false
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
@@ -28,54 +28,69 @@
   id: 2
   name: "Janusz"
   surname: "Leidgens"
-  company: ""
-  title: ""
-  bio: ''
-  thumbnailUrl: favicon-96x96.png
+  company: "Kupferwerk GmbH"
+  title: "Teamlead Android"
+  bio: 'Janusz started creating Android Apps four years ago. Since two years he works as Android Team Lead for the German market leader Kupferwerk GmbH creating high quality applications and building an awesome Android team. One of his tasks is to choose technologies that are used in his team and keep an eye on the overall process of creating big Apps in a great company.'
+  thumbnailUrl: Janusz.jpg
   rockstar: true
   ribbon: 
   social: 
+    - {name: "google-plus", link: "https://www.google.com/+JanuszLeidgens"}
+    - {name: "twitter", link: "http://twitter.com/Killerdackel"}
+    - {name: "stack-overflow", link: "http://stackoverflow.com/users/114066/janusz"}
 -
   id: 3
   name: "Joris"
   surname: "Hermans"
-  company: ""
-  title: ""
-  bio: ''
-  thumbnailUrl: favicon-96x96.png
+  company: "Truvo"
+  title: "Web Developer"
+  bio: 'Joris Hermans is a web developer enthusiast who works for Truvo, an online directory company and member of JCI Belgium. He likes to work with cutting edge technology. As an early adopter of Dart, he continues to contribute to the community. One of his biggest contributions is the creation of the open-source organization ForceUniverse, where you can find a lot of pub packages.'
+  thumbnailUrl: Joris.jpg
   rockstar: true
   ribbon: 
   social: 
+    - {name: "google-plus", link: "https://plus.google.com/107706721391677705659/about"}
+    - {name: "twitter", link: "http://www.twitter.com/@jorishermans"}
+    - {name: "github", link: "https://github.com/jorishermans"}
 -
   id: 4
   name: "Bryan"
   surname: "Cassady"
-  company: ""
-  title: ""
-  bio: ''
-  thumbnailUrl: favicon-96x96.png
+  company: "Founders Institute, Fast-Bridge Consulting"
+  title: "Managing Director"
+  bio: 'Happy to talk about innovation and start-ups... Director Founders Institute Belgium. 10 Start-ups in 6 countries. 6 Years of experience teaching entrepreneurship and innovation at KU Leuven/Solvay.'
+  thumbnailUrl: Bryan.jpg
   rockstar: true
   ribbon: 
   social: 
+    - {name: "google-plus", link: "https://plus.google.com/115097919000905233959/about"}
+    - {name: "linkedin", link: "http://www.linkedin.com/in/bryancassady"}
+    - {name: "site", link: "http://www.fast-bridge.net/"}
 -
   id: 5
   name: "Philippe"
   surname: "Back"
-  company: ""
-  title: ""
+  company: "High Octane SPRL, Pharo Consortium Member"
+  title: "Director"
   bio: ''
-  thumbnailUrl: favicon-96x96.png
+  thumbnailUrl: Philippe.jpg
   rockstar: true
   ribbon: 
   social: 
+    - {name: "google-plus", link: "https://www.google.com/+PhilippeBack"}
+    - {name: "twitter", link: "https://twitter.com/philippeback"}
+    - {name: "site", link: "http://philippeback.eu/"}
 -
   id: 6
   name: "Lucas"
   surname: "Van Beneden"
   company: ""
-  title: ""
-  bio: ''
-  thumbnailUrl: favicon-96x96.png
+  title: "Student @ De Nayer"
+  bio: 'Hacker at HSBXL, passion for engineering and cryptocurrency. Studying electronics and IT. Entrepreneurial spirit.'
+  thumbnailUrl: Lucas.jpg
   rockstar: true
   ribbon: 
   social: 
+    - {name: "google-plus", link: "https://www.google.com/+LucasVanBeneden"}
+    - {name: "twitter", link: "https://twitter.com/lvbeneden"}
+    - {name: "github", link: "https://github.com/Code-nomad"}
