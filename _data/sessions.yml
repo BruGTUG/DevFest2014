@@ -44,8 +44,8 @@
   complexity: "Beginner"
 -
   id: 103
-  title: "Rich Notifications"
-  description: ""
+  title: "Notifications for Smartwatches"
+  description: "Android Wear Devices profit most from the automatic syncing of all existing notifications to the Wear device. This talk will show you best practices to make your notifications look amazing on Android smartwatches."
   subtype: presentation
   speakers: [2]
   language: en
